@@ -1,0 +1,12 @@
+Keuwlsoft Bluetooth Electronics Panel File
+2024-11-06 19:24:52
+2
+
+*.kwl
+set_grid_size(18,8)
+add_button(11,5,3,B,S)
+add_button(13,3,5,R,S)
+add_button(11,1,2,F,S)
+add_button(9,3,4,L,S)
+add_button(11,3,14,S,S)
+set_panel_notes(,,,)
